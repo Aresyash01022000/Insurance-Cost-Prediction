@@ -1,2 +1,3 @@
 # Insurance-Cost-Prediction
 This is a Machine Learning project to create a ML Model which calculates the insurance charges for an individual based on its personal information. The insurance prices are affected by various factors including the age, sex, smoking habits, number of children, etc. Hence by analyzing all this data, we have created a Machine Learning model which predicts the insurance price with a good accuracy. We used Multiple Regressor model, Random Forest model and also observed the difference using Principle Component Analysis (PCA) for both these models.
+For Successfully runing the code install some basic libraries like Numpy, Pandas, matplotlib and Scikit-learn.
